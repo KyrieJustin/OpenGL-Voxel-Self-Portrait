@@ -9,5 +9,4 @@ This is my individual project for the 3D Graphics module.
 - **Interaction**: Free-roam camera using WASD keys.
 
 ## Screenshot
-![My Work](screenshot.png) 
-<!-- 只要您刚才上传了名为 screenshot.png 的图片，这里就会自动显示 -->
+![My Work](screenshot1.png) 
